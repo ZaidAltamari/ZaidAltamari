@@ -24,6 +24,3 @@ Skills:  * REACT
 
 
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
