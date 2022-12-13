@@ -4,20 +4,26 @@
 
 A professional Full Stack Developer for past 2 years and a student of Bachelors in software engineer and I've created a bunch of projects and uploaded them here 
 
-Skills:  REACT / JS / HTML / CSS / Node / MongoDB / Hooks / Redux / Rest API / Bootstrap / Postman / Jquery  
+Skills:  * REACT 
+         * JS 
+         * HTML 
+         * CSS 
+         * Node 
+         * MongoDB 
+         * Hooks 
+         * Redux 
+         * Rest API 
+         * Bootstrap 
+         * Postman 
+         * Jquery  
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Node Js. 
 
 
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
