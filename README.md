@@ -15,7 +15,7 @@ Skills:  * REACT
          * Rest API 
          * Bootstrap 
          * Postman 
-         * Jquery  
+          * Jquery  
 
 - 🔭 I’m currently working on Node Js. 
 
