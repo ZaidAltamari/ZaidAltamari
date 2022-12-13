@@ -19,7 +19,8 @@ Skills:  * REACT
 
 - 🔭 I’m currently working on Node Js. 
 
-github [linkedin](https://www.linkedin.com/in/Zaid Altamari/) [facebook](https://www.facebook.com/زيد العبيات)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ZaidAltamari)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Zaid Altamari/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/زيد العبيات)  
+
 
 
 
